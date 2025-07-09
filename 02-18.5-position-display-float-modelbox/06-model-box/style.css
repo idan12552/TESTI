@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .box1{
     border: 30px solid black;
     width: 200px;
@@ -16,4 +17,24 @@
 /* margin-top
 margin-right 
 margin-left 
+=======
+.box1{
+    border: 30px solid black;
+    width: 200px;
+    height: 400px;
+    padding: 10px;
+    margin:70px;
+}
+.box2{
+    border: 30px solid black;
+    width: 200px;
+    height: 400px;
+    margin:70px;
+}
+
+
+/* margin-top
+margin-right 
+margin-left 
+>>>>>>> a9339c42a295e0adfa3e1e1c24bc097afc1ae0b1
 margin-bottom */

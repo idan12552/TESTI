@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .box{
     border: 3px solid black;
     width: 200px;
@@ -22,3 +23,29 @@ img{
 .imgBox p{
     color:red;
 }
+=======
+.box{
+    border: 3px solid black;
+    width: 200px;
+    height: 400px;
+    padding: 10px;
+    margin-top:30px;
+    float: left;
+    margin-left: 20px;
+}
+.imgBox{
+    padding: 10px;
+    border:3px dashed salmon;
+}
+img{
+    width: 200px;
+}
+.imgBox img{
+    width: 20px;
+    height: 20px;
+}
+
+.imgBox p{
+    color:red;
+}
+>>>>>>> a9339c42a295e0adfa3e1e1c24bc097afc1ae0b1
